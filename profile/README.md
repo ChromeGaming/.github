@@ -1,5 +1,6 @@
 <div>
-  <img src="https://github.com/GameSphere-MultiPlayer/.github/assets/98798977/84ffd481-f969-4a57-b39e-0670a50946fc">
+  <img src="https://github.com/GameSphere-MultiPlayer/.github/assets/98798977/750f4ad5-b411-4e49-91d7-b45d41e054c1">
 </div>
+
 
 
